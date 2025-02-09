@@ -64,6 +64,7 @@ public class ParentPage {
     }
 
 
+
 }
 
 
@@ -80,6 +81,7 @@ public class ParentPage {
 //-Elemente kadar scroll yap (var ise)
 //-içini temizle
 //-veriyi gönder
+
 //
 //
 //Button için neler yapılır
